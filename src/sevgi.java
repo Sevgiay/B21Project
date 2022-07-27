@@ -5,6 +5,7 @@ public class sevgi {
           //more stuff
          //Mac user and windows users are happy to committ
         // it s now  i am ready published on GitHub.com
+        //kgfdfghjytfdc
 
 
     }
